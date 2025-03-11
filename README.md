@@ -8,3 +8,7 @@
 - Entity Framework Core<br>
 - SQL Server<br>
 
+ウェブアプリ機能:
+- DBに映画タイトルなどの情報を記入 <br>
+- CRUDで情報を管理 <br>
+- 映画タイトル検索 <br>
