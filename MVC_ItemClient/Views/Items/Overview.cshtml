@@ -1,0 +1,32 @@
+﻿@model MVC_App.Models.Item
+
+@{
+	var items = new List<string> { "Item1", "Item2", "Item3", "Item4", "Item5", "Item6" };
+
+	var isLoggedIn = true;
+}
+
+<p>This is the name of the item @Model.Name </p>
+
+<ul>
+	@foreach(var item in items) {
+		<li>@item</li>
+	}
+</ul>
+
+@if (isLoggedIn) {
+	<p>Welcome Back!</p>
+}
+else {
+	<p>Please Log in</p>
+}
+
+
+@* use razor tag helpers 'asp-for' binds the input field to the property 'Name' *@
+<form asp-action="Submit">
+	<div>
+		<input asp-for="Name" />
+	</div>
+
+	<button type="submit">Submit</button>
+</form>
