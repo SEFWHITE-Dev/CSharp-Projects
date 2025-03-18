@@ -4,8 +4,8 @@
 
 - ASP.NET Core MVC App<br>
 - C#, Razor<br>
-- Entity Framework Core<br>
-- SQL Server<br>
+- Entity Framework Core <br>
+- SQL Server Management Studio <br>
 
 MVC Movie機能:<br>
 - データベースに映画タイトルなどの情報を記入 <br>
