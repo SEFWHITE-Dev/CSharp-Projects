@@ -1,4 +1,5 @@
 ﻿using FinanceApp.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace FinanceApp.Data.Service
 {
@@ -6,14 +7,37 @@ namespace FinanceApp.Data.Service
     {
         private readonly FinanceAppContext _context;
 
-        public Task Add(Expense expense)
+        public ExpensesService(FinanceAppContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task<IEnumerable<Expense>> GetAll()
+        public async Task Add(Expense expense)
         {
-            throw new NotImplementedException();
+            // add changes to db
+            _context.Expenses.Add(expense);
+            await _context.SaveChangesAsync();
+            
+        }
+
+        public async Task<IEnumerable<Expense>> GetAll()
+        {
+            // wait for a response from the db
+            var expenses = await _context.Expenses.ToListAsync();
+            return expenses;
+        }
+
+        public IQueryable GetChartData()
+        {
+            var data = _context.Expenses // filter the expenses
+                .GroupBy(e => e.Category) // group by category
+                .Select(g => new // create an anonymous obj
+                {
+                    Category = g.Key, // store the category
+                    Total = g.Sum(e => e.Amount) // store the total amount for each category
+                });
+
+            return data;
         }
     }
 }

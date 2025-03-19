@@ -1,4 +1,5 @@
 ﻿using FinanceApp.Data;
+using FinanceApp.Data.Service;
 using FinanceApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,18 +8,18 @@ namespace FinanceApp.Controllers
 {
     public class ExpensesController : Controller
     {
-        // define context obj to allow communication to db
-        private readonly FinanceAppContext _context;
+        // define IExpensesService obj to allow communication to service, which communicates with the db
+        private readonly IExpensesService _expensesService;
 
-        public ExpensesController(FinanceAppContext context)
+        public ExpensesController(IExpensesService expensesService)
         {
-            _context = context;
+            _expensesService = expensesService;
         }
 
         public async Task<IActionResult> Index()
         {
-            // wait for a response from the db
-            var expenses = await _context.Expenses.ToListAsync();
+            // wait for a response from the service, which retreives data from the db
+            var expenses = await _expensesService.GetAll();
             return View(expenses);
         }
 
@@ -33,14 +34,20 @@ namespace FinanceApp.Controllers
             // check if valid expense 
             if (ModelState.IsValid)
             {
-                // add changes to db
-                _context.Expenses.Add(expense);
-                await _context.SaveChangesAsync();
+                // wait for the response from the Service, which retreives data from db 
+                await _expensesService.Add(expense);
 
                 // once the changes go through, direct user to Index page
                 return RedirectToAction("Index");
             }
             return View(expense);
+        }
+
+        public IActionResult GetChart()
+        {
+            // query the data using the service
+            var data = _expensesService.GetChartData();
+            return Json(data);
         }
     }
 }

@@ -6,5 +6,7 @@ namespace FinanceApp.Data.Service
     {
         Task<IEnumerable<Expense>> GetAll();
         Task Add(Expense expense);
+        // IQueryable used to query collections, ideal for LINQ queries, as all the querying will happen in the db
+        IQueryable GetChartData();
     }
 }
