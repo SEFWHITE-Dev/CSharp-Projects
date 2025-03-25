@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/1UdVAYrg4U=",
+  "dgSpecHash": "diJpjwHVFmw=",
   "success": true,
   "projectFilePath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\FinanceApp.csproj",
   "expectedPackageFiles": [
@@ -83,7 +83,7 @@
     "C:\\Users\\shota\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\shota\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\shota\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\shota\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+    "C:\\Users\\shota\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.202\\microsoft.net.sdk.compilers.toolset.9.0.202.nupkg.sha512"
   ],
   "logs": []
 }

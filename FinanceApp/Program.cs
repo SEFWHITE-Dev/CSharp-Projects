@@ -10,7 +10,28 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<FinanceAppContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
 
+//
+//var connection = String.Empty;
+//if (builder.Environment.IsDevelopment())
+//{
+//    builder.Configuration.AddEnvironmentVariables().AddJsonFile("appsettings.Development.json");
+//    connection = builder.Configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING");
+//}
+//else
+//{
+//    connection = Environment.GetEnvironmentVariable("AZURE_SQL_CONNECTIONSTRING");
+//}
+
+//builder.Services.AddDbContext<FinanceAppContext>(options =>
+//    options.UseSqlServer(connection));
+//
+
+
 builder.Services.AddScoped<IExpensesService, ExpensesService>();
+
+
+
+
 
 var app = builder.Build();
 

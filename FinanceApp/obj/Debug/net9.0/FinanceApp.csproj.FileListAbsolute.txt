@@ -54,13 +54,11 @@ C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Composition.TypedParts.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Drawing.Common.dll
-C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Formats.Asn1.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Memory.Data.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Runtime.Caching.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Security.Permissions.dll
-C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\System.Windows.Extensions.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -224,10 +222,10 @@ C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FinanceApp.props
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FinanceApp.props
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\FinanceApp.csproj.Up2Date
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\FinanceApp.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\refint\FinanceApp.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\FinanceApp.pdb
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\FinanceApp.genruntimeconfig.cache
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\ref\FinanceApp.dll
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\FinanceApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

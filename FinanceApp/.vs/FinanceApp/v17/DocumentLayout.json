@@ -7,8 +7,40 @@
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\migrations\\20250325055017_changeconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:migrations\\20250325055017_changeconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\data\\service\\expensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:data\\service\\iexpensesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:migrations\\20250318064024_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|c:\\users\\shota\\onedrive\\documents\\github\\c#\\csharp-projects\\financeapp\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{346AB86D-D7D6-4730-9009-99B2946E3B84}|FinanceApp.csproj|solutionrelative:financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,88 +74,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ExpensesService.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\ExpensesService.cs",
-              "RelativeDocumentMoniker": "Data\\Service\\ExpensesService.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\ExpensesService.cs",
-              "RelativeToolTip": "Data\\Service\\ExpensesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T08:35:51.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IExpensesService.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\IExpensesService.cs",
-              "RelativeDocumentMoniker": "Data\\Service\\IExpensesService.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\IExpensesService.cs",
-              "RelativeToolTip": "Data\\Service\\IExpensesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T08:33:08.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Expenses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Create.cshtml",
-              "RelativeToolTip": "Views\\Expenses\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T07:53:16.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Expenses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Index.cshtml",
-              "RelativeToolTip": "Views\\Expenses\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T06:53:58.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T06:49:10.663Z",
+              "WhenOpened": "2025-03-25T07:32:22.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Title": "20250325055017_ChangeConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Migrations\\20250325055017_ChangeConnectionString.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250325055017_ChangeConnectionString.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Migrations\\20250325055017_ChangeConnectionString.cs",
+              "RelativeToolTip": "Migrations\\20250325055017_ChangeConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T06:47:01.301Z",
+              "WhenOpened": "2025-03-25T05:50:17.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "20250318064024_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Migrations\\20250318064024_InitialMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20250318064024_InitialMigration.cs",
@@ -151,32 +116,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T06:34:04.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T06:30:25.727Z"
+              "WhenOpened": "2025-03-18T06:30:25.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:53:58.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T07:53:16.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:47:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:49:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:49:10.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T02:55:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinanceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\FinanceApp.csproj",
+              "RelativeDocumentMoniker": "FinanceApp.csproj",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\FinanceApp.csproj",
+              "RelativeToolTip": "FinanceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T05:24:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IExpensesService.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "RelativeDocumentMoniker": "Data\\Service\\IExpensesService.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\IExpensesService.cs",
+              "RelativeToolTip": "Data\\Service\\IExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:33:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpensesService.cs",
+              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "RelativeDocumentMoniker": "Data\\Service\\ExpensesService.cs",
+              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\Service\\ExpensesService.cs",
+              "RelativeToolTip": "Data\\Service\\ExpensesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:35:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FinanceAppContext.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Data\\FinanceAppContext.cs",
               "RelativeDocumentMoniker": "Data\\FinanceAppContext.cs",
@@ -188,19 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FinanceApp.csproj",
-              "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\FinanceApp.csproj",
-              "RelativeDocumentMoniker": "FinanceApp.csproj",
-              "ToolTip": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\FinanceApp.csproj",
-              "RelativeToolTip": "FinanceApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T05:24:05.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Expense.cs",
               "DocumentMoniker": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FinanceApp\\Models\\Expense.cs",
               "RelativeDocumentMoniker": "Models\\Expense.cs",

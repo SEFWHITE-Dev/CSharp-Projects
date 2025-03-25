@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/d33p1qiGc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\FieldValidatorAPI\\FieldValidatorAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shota\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

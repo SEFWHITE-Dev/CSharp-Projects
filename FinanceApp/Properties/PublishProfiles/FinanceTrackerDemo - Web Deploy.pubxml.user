@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-03-25T07:47:51.7761095Z||;True|2025-03-25T14:52:32.6940739+09:00||;True|2025-03-25T13:57:55.9451809+09:00||;True|2025-03-25T13:41:53.8792149+09:00||;True|2025-03-25T13:11:59.9673384+09:00||;True|2025-03-25T11:41:29.9859108+09:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Server=tcp:financeappdemodbserver.database.windows.net%3bAuthentication=Active Directory Default%3bDatabase=finance_app_db%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

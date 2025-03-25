@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covarience_Contravarience_Delegates", "Covarience_Contravarience_Delegates.csproj", "{AFE1B469-497B-4E49-87C5-DB5F96071387}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DA68EF0-C7FD-480C-8954-828FD093C90E}"
+	ProjectSection(SolutionItems) = preProject
+		Covarience.cs = Covarience.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE1B469-497B-4E49-87C5-DB5F96071387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE1B469-497B-4E49-87C5-DB5F96071387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE1B469-497B-4E49-87C5-DB5F96071387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE1B469-497B-4E49-87C5-DB5F96071387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\bin\Debug\net9.0\Covarience_Contravarience_Delegates.exe
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\bin\Debug\net9.0\Covarience_Contravarience_Delegates.deps.json
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\bin\Debug\net9.0\Covarience_Contravarience_Delegates.runtimeconfig.json
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\bin\Debug\net9.0\Covarience_Contravarience_Delegates.dll
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\bin\Debug\net9.0\Covarience_Contravarience_Delegates.pdb
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.AssemblyInfoInputs.cache
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.AssemblyInfo.cs
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.sourcelink.json
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.dll
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\refint\Covarience_Contravarience_Delegates.dll
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.pdb
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\Covarience_Contravarience_Delegates.genruntimeconfig.cache
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\Covarience_Contravarience_Delegates\obj\Debug\net9.0\ref\Covarience_Contravarience_Delegates.dll
