@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mxwTGQblt5OOUGuX+WjXagm8dci4wWM5R6O4euqVfok=",
+  "Hash": "MSI18kpedTCrurjqesXaXElD9iWLgOfLIoQc5nx+Xzo=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-dpdc1fkhx9.gz",
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-3e2gfxmovp.gz",
       "SourceId": "ExpenseTracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseTracker",
-      "RelativePath": "css/site#[.{fingerprint=dpdc1fkhx9}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=3e2gfxmovp}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uidmddzzsy",
-      "Integrity": "CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek=",
+      "Fingerprint": "p5yr9ryl07",
+      "Integrity": "rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dpdc1fkhx9",
-      "Integrity": "YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU=",
+      "Fingerprint": "3e2gfxmovp",
+      "Integrity": "G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-dpdc1fkhx9.gz",
+      "Route": "css/site.3e2gfxmovp.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-3e2gfxmovp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002024291498"
+          "Quality": "0.001206272618"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "493"
+          "Value": "828"
         },
         {
           "Name": "ETag",
-          "Value": "\"CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek=\""
+          "Value": "\"rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,18 +2772,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU=\""
+          "Value": "W/\"G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "3e2gfxmovp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU="
+          "Value": "sha256-G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.3e2gfxmovp.css",
       "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2793,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1208"
+          "Value": "2478"
         },
         {
           "Name": "Content-Type",
@@ -2801,121 +2809,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU=\""
+          "Value": "\"G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-dpdc1fkhx9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "493"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dpdc1fkhx9.css",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-dpdc1fkhx9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002024291498"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "493"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpdc1fkhx9"
+          "Value": "3e2gfxmovp"
         },
         {
           "Name": "label",
@@ -2923,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU="
+          "Value": "sha256-G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA="
         }
       ]
     },
     {
-      "Route": "css/site.dpdc1fkhx9.css",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
+      "Route": "css/site.3e2gfxmovp.css.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-3e2gfxmovp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2938,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1208"
+          "Value": "828"
         },
         {
           "Name": "Content-Type",
@@ -2946,56 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU=\""
+          "Value": "\"rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dpdc1fkhx9"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YY1mrE0SaDV9JKkvMH4ibVGbfYcN8GVY1FaRRgYPNJU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.dpdc1fkhx9.css.gz",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-dpdc1fkhx9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "493"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 08:55:34 GMT"
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dpdc1fkhx9"
+          "Value": "3e2gfxmovp"
         },
         {
           "Name": "label",
@@ -3021,7 +2884,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CqEy5P7aaB3YITEqsrKNz3KT0vtmW5NOsGPdZtG1+ek="
+          "Value": "sha256-rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-3e2gfxmovp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001206272618"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2MPAs5JKxg8BzNUl9MYAh7wPoRtejWP/HhXQ6ss5cA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-3e2gfxmovp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 06:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rTpxaBk/YrsawVRpfwThDBuZXeotRq2hhHMmY2pyec0="
         }
       ]
     },
