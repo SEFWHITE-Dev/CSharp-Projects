@@ -23,7 +23,7 @@
                 <div class="mb-3">
                     @* the 'esj-for' property is the equivalent of asp-for. it uses the field set within Category.cs *@
                     <ejs-textbox id="title" placeholder="Title" ejs-for="Title" floatLabelType="Always"></ejs-textbox>
-                    <span asp-validation-for="Title" class="text-danger"></span>
+                    <span asp-validation-for="Title" class="text-danger fs-6"></span>
                 </div>
                 <div class="mb-3">
                     <ejs-textbox id="icon" placeholder="Icon" ejs-for="Icon" floatLabelType="Always"></ejs-textbox>
@@ -41,7 +41,8 @@
     </div>
 </div>
 
-
+@* Disable client side validation
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
+*@

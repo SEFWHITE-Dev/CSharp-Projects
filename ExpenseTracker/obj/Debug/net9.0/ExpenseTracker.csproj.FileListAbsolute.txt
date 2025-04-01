@@ -339,4 +339,4 @@ C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\bin\D
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\bin\Debug\net9.0\Syncfusion.EJ2.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\compressed\2kc4ra80sh-3e2gfxmovp.gz
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\compressed\2kc4ra80sh-qdvx7ketbt.gz

@@ -1,0 +1,50 @@
+﻿
+@{
+	// Store a list of dynamic objects
+	List<Object> menuItems = new List<Object>();
+
+	// Create an anonymous obj to be added to the list
+	menuItems.Add(new
+	{
+		text = "Dashboard",
+		url = "/",
+		iconCss = "fa-solid fa-box"
+	});
+
+	menuItems.Add(new {
+		text = "Categories",
+		url = "/Category",
+		iconCss = "fa-solid fa-folder-closed"
+	});
+
+	menuItems.Add(new
+	{
+		text = "Transactions",
+		url = "/Transaction",
+		iconCss = "fa-solid fa-arrow-right-arrow-left"
+	});
+}
+
+<ejs-sidebar id="sidebar" width="290px">
+	<e-content-template>
+		<div style="padding-top: 50px;">
+			<div class="w-100"></div>
+			<i id="sidebar-toggler" class="fa-solid fa-angles-left"></i>
+			<ejs-menu id="menu" items="menuItems" orientation="Vertical"></ejs-menu>
+		</div>
+	</e-content-template>
+
+</ejs-sidebar>
+
+@* 
+	Subscribe to the DOM loaded event, to execute the function after the document has been loaded.
+	To work with the Syncfusion functions of the component Sidebar, have to retreive the Syncfusion instance by calling 'ej2_instances'
+*@
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+		dockBar = document.getElementById('sidebar').ej2_instances[0];
+		document.getElementById('sidebar-toggler').onclick = function () {
+			dockBar.toggle();
+		}
+	})
+</script>
