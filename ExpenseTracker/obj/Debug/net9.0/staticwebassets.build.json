@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UHITik0I4rGtuq9nO7ExB6R/FcKB6/ERVRkxFgCFhPU=",
+  "Hash": "p9mvEXQvdzpqxUENV+0TxVv1uV/3UCeYfrAkkQrETq4=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-qdvx7ketbt.gz",
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-oa4alkmq4k.gz",
       "SourceId": "ExpenseTracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ExpenseTracker",
-      "RelativePath": "css/site#[.{fingerprint=qdvx7ketbt}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=oa4alkmq4k}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1vkzkojskw",
-      "Integrity": "o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s=",
+      "Fingerprint": "yqvk8p9ac4",
+      "Integrity": "uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qdvx7ketbt",
-      "Integrity": "4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc=",
+      "Fingerprint": "oa4alkmq4k",
+      "Integrity": "QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2750,12 +2750,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-qdvx7ketbt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-oa4alkmq4k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533617930"
+          "Quality": "0.000501002004"
         }
       ],
       "ResponseHeaders": [
@@ -2765,15 +2765,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1873"
+          "Value": "1995"
         },
         {
           "Name": "ETag",
-          "Value": "\"o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s=\""
+          "Value": "\"uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2793,13 +2793,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc=\""
+          "Value": "W/\"QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc="
+          "Value": "sha256-QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw="
         }
       ]
     },
@@ -2814,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6672"
+          "Value": "7243"
         },
         {
           "Name": "Content-Type",
@@ -2822,11 +2822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc=\""
+          "Value": "\"QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2836,13 +2836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc="
+          "Value": "sha256-QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-qdvx7ketbt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-oa4alkmq4k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2851,7 +2851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1873"
+          "Value": "1995"
         },
         {
           "Name": "Content-Type",
@@ -2859,11 +2859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s=\""
+          "Value": "\"uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2881,18 +2881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s="
+          "Value": "sha256-uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0="
         }
       ]
     },
     {
-      "Route": "css/site.qdvx7ketbt.css",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-qdvx7ketbt.gz",
+      "Route": "css/site.oa4alkmq4k.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-oa4alkmq4k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000533617930"
+          "Quality": "0.000501002004"
         }
       ],
       "ResponseHeaders": [
@@ -2902,15 +2902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1873"
+          "Value": "1995"
         },
         {
           "Name": "ETag",
-          "Value": "\"o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s=\""
+          "Value": "\"uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,13 +2930,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc=\""
+          "Value": "W/\"QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qdvx7ketbt"
+          "Value": "oa4alkmq4k"
         },
         {
           "Name": "label",
@@ -2944,12 +2944,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc="
+          "Value": "sha256-QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw="
         }
       ]
     },
     {
-      "Route": "css/site.qdvx7ketbt.css",
+      "Route": "css/site.oa4alkmq4k.css",
       "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6672"
+          "Value": "7243"
         },
         {
           "Name": "Content-Type",
@@ -2967,11 +2967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc=\""
+          "Value": "\"QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qdvx7ketbt"
+          "Value": "oa4alkmq4k"
         },
         {
           "Name": "label",
@@ -2989,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4osg9ub3P7aVJIc3KlKiBjSWwHY83c1qh1RVpKXLUsc="
+          "Value": "sha256-QBm4fym9P0V4edj+f0ieXRxCDFog4PP2f2mnZUjgbDw="
         }
       ]
     },
     {
-      "Route": "css/site.qdvx7ketbt.css.gz",
-      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-qdvx7ketbt.gz",
+      "Route": "css/site.oa4alkmq4k.css.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\CSharp-Projects\\ExpenseTracker\\obj\\Debug\\net9.0\\compressed\\2kc4ra80sh-oa4alkmq4k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3004,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1873"
+          "Value": "1995"
         },
         {
           "Name": "Content-Type",
@@ -3012,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s=\""
+          "Value": "\"uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 08:49:40 GMT"
+          "Value": "Wed, 02 Apr 2025 01:00:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3034,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qdvx7ketbt"
+          "Value": "oa4alkmq4k"
         },
         {
           "Name": "label",
@@ -3042,7 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-o4fVWd5Jm3Ot35mxhQJgJJYNgPdhjWnzrj0XyZM+l+s="
+          "Value": "sha256-uvnn+kP/BOBfEUTuJePuQhbkxEqFHRFkqBlULFNaRI0="
         }
       ]
     },
