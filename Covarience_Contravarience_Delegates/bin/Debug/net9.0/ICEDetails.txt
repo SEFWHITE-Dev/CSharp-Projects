@@ -1,2 +1,0 @@
-Object Type: Covarience_Contravarience_Delegates.ICECar
-Car Details: 1 - Audi R8 - Internal Combustion Engine
