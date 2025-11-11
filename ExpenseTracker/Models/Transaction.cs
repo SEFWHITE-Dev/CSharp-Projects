@@ -20,7 +20,7 @@ namespace ExpenseTracker.Models
         [Column(TypeName = "nvarchar(75)")]
         public string? Note { get; set; }
 
-        public DateTime DateTime { get; set; } = DateTime.Now; // set the default datetime value
+        public DateTime DateTime { get; set; } = DateTime.Now.Date; // set the default datetime value
 
         [NotMapped]
         public string? CategoryTitleWithIcon

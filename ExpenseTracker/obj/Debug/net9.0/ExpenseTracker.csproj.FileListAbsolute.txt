@@ -212,7 +212,6 @@ C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\D
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ExpenseTracker.props
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ExpenseTracker.props
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\ExpenseT.567C5DF3.Up2Date
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\refint\ExpenseTracker.dll
@@ -340,3 +339,4 @@ C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\bin\D
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\bin\Debug\net9.0\Syncfusion.Licensing.dll
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\compressed\2kc4ra80sh-oa4alkmq4k.gz
+C:\Users\shota\OneDrive\Documents\GitHub\C#\CSharp-Projects\ExpenseTracker\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

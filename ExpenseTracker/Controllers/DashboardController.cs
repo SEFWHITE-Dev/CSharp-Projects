@@ -20,13 +20,21 @@ namespace ExpenseTracker.Controllers
         public async Task<IActionResult> Index()
         {
             // Show the last 7 days transactions
-            DateTime StartDate = DateTime.Today.AddDays(-6);
-            DateTime EndDate = DateTime.Today;
+            //DateTime StartDate = DateTime.Today.AddDays(-6);
+            //DateTime EndDate = DateTime.Today;
+
+            // Show fixed dates
+            DateTime StartDate = new DateTime(2025, 4, 1); // 01-April-2025
+            DateTime EndDate = new DateTime(2025, 4, 6);   // 06-April-2025
+
 
             List<Models.Transaction> SelectedTransactions = await _context.Transactions
                 .Include(x => x.Category) // perform SQL JOIN with the Category table
                 .Where(y => y.DateTime >= StartDate && y.DateTime <= EndDate) // filter transitions within the date range
                 .ToListAsync();
+
+
+
 
             /*
                 Equivalent SQL Query:
@@ -37,22 +45,24 @@ namespace ExpenseTracker.Controllers
                 WHERE t.DateTime BETWEEN @StartDate AND @EndDate;
             */
 
-            
+            // Set default Money symbol to £
+            CultureInfo moneyCulture = CultureInfo.CreateSpecificCulture("en-GB");
+
             // Total income
             int TotalIncome = SelectedTransactions.Where(i => i.Category.Type == "Income").Sum(s =>  s.Amount);
-            ViewBag.TotalIncome = TotalIncome.ToString("C0");
+            ViewBag.TotalIncome = TotalIncome.ToString("C0", moneyCulture);
 
             // Total Expenses
             int TotalExpenses = SelectedTransactions.Where(i => i.Category.Type == "Expense").Sum(s => s.Amount);
-            ViewBag.TotalExpense = TotalExpenses.ToString("C0");
+            ViewBag.TotalExpense = TotalExpenses.ToString("C0", moneyCulture);
 
             // Balance
             int Balance = TotalIncome - TotalExpenses;
 
             // Ensure negative values are formatted correctly
-            CultureInfo culture = CultureInfo.CreateSpecificCulture("en-Uk");
-            culture.NumberFormat.CurrencyNegativePattern = 1;
-            ViewBag.Balance = String.Format(culture, "{0:C0}", Balance);
+            CultureInfo balanceCulture = CultureInfo.CreateSpecificCulture("en-GB");
+            balanceCulture.NumberFormat.CurrencyNegativePattern = 1;
+            ViewBag.Balance = String.Format(balanceCulture, "{0:C0}", Balance);
 
             // Area chart - expense by category
             ViewBag.AreaChartData = SelectedTransactions
@@ -85,7 +95,7 @@ namespace ExpenseTracker.Controllers
             // Income summary
             List<SpineChartData> IncomeSummary = SelectedTransactions
                 .Where(i => i.Category.Type == "Income")
-                .GroupBy(j => j.DateTime)
+                .GroupBy(j => j.DateTime.Date)
                 .Select(k => new SpineChartData
                 {
                     day = k.First().DateTime.ToString("dd-MMM"),
@@ -109,7 +119,7 @@ namespace ExpenseTracker.Controllers
             // Expense summary
             List<SpineChartData> ExpenseSummary = SelectedTransactions
                 .Where(i => i.Category.Type == "Expense")
-                .GroupBy(j => j.DateTime)
+                .GroupBy(j => j.DateTime.Date)
                 .Select(k => new SpineChartData
                 {
                     day = k.First().DateTime.ToString("dd-MMM"),
